@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(235, 180, 180);
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+    background-color:rgb(225, 225, 96);
+}
+label{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+input{
+    border: 2px solid black;
+}
+span{
+    color: red;
+}
+div{
+    margin-top: 1rem;
+    text-align: center;
+}
+#login{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    width: 250px;
+    border-radius: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#signup{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+a{
+    font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
+}
+hr{
+    width: 270px;
+    
+}
